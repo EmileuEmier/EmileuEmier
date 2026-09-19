@@ -51,9 +51,9 @@ I am a Science High School student passionate about **Computer Science**, **Arti
 
 | Certificate / Distinction | Issued By / Authority | View / Verify Credential |
 | :--- | :--- | :---: |
-| 🥇 **American Mathematics Olympiad (AMO)** | SIMCC & Southern Illinois University | 📜 [View Certificate](./certificates/AMO_Gold.pdf) |
 | 🎓 **CS50x: Intro to Computer Science** | Harvard University | 🔗 [Verify Certificate](https://cs50.harvard.edu/certificates/c4d52298-5fb7-4af2-8305-60efed8b9fea) |
 | 📊 **GCI World Data Science** | The University of Tokyo (Matsuo-Iwasawa Lab) | 📜 [View Certificate](./certificates/Matsuo_Iwasawa.pdf) |
+| 🥇 **American Mathematics Olympiad (AMO)** | SIMCC & Southern Illinois University | 📜 [View Certificate](./certificates/AMO_Gold.pdf) |
 | 🥉 **XCEL Math Olympiad** | XCEL National Competition | 📜 [View Certificate](./certificates/XCEL_Bronze.pdf) |
 | 🏅 **30th International Antalya Math Olympiad** | Akdeniz University (UAMO) | 📜 [View Certificate](./certificates/UAMO_Achievement.pdf) |
 | 🛡️ **Mobile Security and Penetration Testing Techniques** | BTK Akademi | 📜 [View Certificate](./certificates/BTK_Mobile_Security.pdf) |
