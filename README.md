@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A0E4E,33:A81A38,66:E65100,100:FFB300&height=220&section=header&text=Emir%20Aytekin&fontSize=42&fontColor=ffffff&fontAlignY=38&subtext=Competitive%20Mathematician%20%7C%20AI%20%26%20Software%20Developer%20%7C%20CS%20Pioneer&subfontSize=16&subfontAlignY=62" width="100%" />
 
 <a href="https://github.com/Emileu_Emier">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=High+School+Student+%40+Science+High+School;Gold+Medalist+%40+American+Mathematics+Olympiad+(AMO);Harvard+CS50x+%26+University+of+Tokyo+GCI+Graduate;Building+Machine+Learning+Pipelines+%26+Computer+Vision+Apps;Exploring+Drone+Aviation,+Game+Dev+%26+Taekwondo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=High+School+Student+%40+Yenimahalle+Science+High+School;Gold+Medalist+%40+American+Mathematics+Olympiad+(AMO);Harvard+CS50x+%26+University+of+Tokyo+GCI+Graduate;Building+Machine+Learning+Pipelines+%26+Computer+Vision+Apps;Exploring+Drone+Aviation,+Game+Dev+%26+Taekwondo" alt="Typing SVG" />
 </a>
 
 <br><br>
